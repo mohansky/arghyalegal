@@ -65,7 +65,7 @@ export default function MyModal() {
                   </div>
                   <div className="mt-4">
                     <ButtonOutline onClick={closeModal}>
-                    Got it, thanks!
+                    I Agree
                     </ButtonOutline>
                     {/* <ButtonOutlineBlack onClick={closeModal}>
                       Got it, thanks!
