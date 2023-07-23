@@ -1,0 +1,40 @@
+{
+  "title": "Why us?",
+  "items": [
+    {
+      "id": 1,
+      "title": "Practicality",
+      "text": "We want to look at law from a business perspective and hence we focus on practicality of law keeping in mind the business.. We provide practical solutions which are simple and easy to implement keeping in mind the business needs."
+    },
+    {
+      "id": 2,
+      "title": "Partnership",
+      "text": "  The very basis for which our firm was set up was to foster collaborative approach between inhouse legal teams and business teams to understand the pain points and bottlenecks and provide custom-made solutions.. We proactively provide updates on rapidly changing laws which may affect our client’s business and assist in undertaking risk mitigation measures."
+    },
+    {
+      "id": 3,
+      "title": "Customisation",
+      "text": " We understand that one size does not fit all. Hence, we give advice that matters and suits specific requirements."
+    },
+    {
+      "id": 4,
+      "title": "Availability",
+      "text": " A dedicated partner will be involved for every transaction and be available at all times to cater to the needs of our clients. "
+    },
+    {
+      "id": 5,
+      "title": "Responsiveness",
+      "text": " We value our client’s business and understand the importance of time and their impact on business.. We work with our clients to adhere to their timelines for completion."
+    },
+    {
+      "id": 6,
+      "title": "Cost effectiveness",
+      "text": " In our quest to collaborate with inhouse teams, it is our endeavour to work with them to find the most cost effective price structure which suits their budget."
+    },
+    {
+      "id": 7,
+      "title": "Quality Work",
+      "text": " We do not compromise on quality. We are committed to the highest standards of  quality of work at all times."
+    }
+  ]
+}

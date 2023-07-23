@@ -1,0 +1,39 @@
+{
+  "title": "Practice Areas",
+  "services": [
+    {
+      "id": 1,
+      "title": "Commercial Transactions",
+      "subtitle": "Commercial transactions include all things contractual which our clients may have with third parties.",
+      "text": [
+        "Contract Pre-execution Stage: Pre-execution support includes guiding business with the right document for a particular business transaction, providing contract templates, drafting and reviewing of contracts, negotiations to enforce standards practises.",
+        "Contract Post-execution Stage: Post execution support includes analysing executed contracts to highlight risks and deviation from standard practises. Help renegotiate terms on behalf of our clients which protect their interest."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Compliance Training",
+      "subtitle": "",
+      "text": [
+        "Compliance with the law of the land is key to a company’s success. Our Regulatory training includes providing knowledge sessions to business teams on issues like Antitrust, Dawn Raids and Ethics and Compliance. The purpose is to create awareness of these laws to ensure compliance and avoid being penalised for violations."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Contracts Management",
+      "subtitle": "",
+      "text": [
+        "Provide easy access to organised contractual data.",
+        "Improve efficiency, save time and money by having access to information quickly rather than spending many many hours looking for simple information."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Dispute Resolution",
+      "subtitle": "",
+      "text": [
+        "Facilitate high stake litigation resolution by (i) Assisting in finding the right effective resource (ii) Negotiating best price (iii) Leading management of litigation until closure on behalf of our Clients."
+      ]
+    }
+  ]
+}

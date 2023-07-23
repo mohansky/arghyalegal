@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "name": "Home",
+      "URL": "/",
+      "weight": 1,
+      "id": 1
+    },
+    {
+      "name": "About Us",
+      "URL": "/about",
+      "weight": 2,
+      "id": 2
+    },
+    {
+      "name": "Our Services",
+      "URL": "/services",
+      "weight": 3,
+      "id": 3
+    },
+    {
+      "name": "Contact",
+      "URL": "/contact",
+      "weight": 4,
+      "id": 4
+    }
+  ]
+}

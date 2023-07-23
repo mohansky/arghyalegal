@@ -1,0 +1,23 @@
+{
+  "title":"Meet our Team",
+  "subtitle":"Our team has more than two decades of rich experience.",
+  "team": [
+  {
+    "name": "Ankur Deka Rabha",
+    "image": "/images/team/Ankur-Deka-Rabha.jpg",
+    "text": [
+      "Ankur Deka Rabha focuses on Commercial Transactions, Training, Advisory and Dispute Resolution services for the firm.",
+      "Before being a part of the firm, he has spent nearly two decades in the industry and most of it as an in-house counsel managing and leading legal departments of multinational companies having diversified business concerns across SouthEast Asia. Over the course of his career, he has worked in various sectors like E-Commerce, Information Technology, Consumer Goods, Automobile, Energy, Manufacturing, Engineering, Rail Transportation, Medical Device.",
+      "Ankur’s core competency lies in his ability to quickly understand a business and its expectations and collaborate with the internal teams to (i) identify risks, (ii) implement risk mitigation measures (iii) simplify existing policies and procedures (iv) structure business",
+      "Ankur holds B.A. LLB. (Hons) from National Law School of India University, Bengaluru."
+    ]
+  },
+  {
+    "name": "Anima Gogoi Deka",
+    "image": "/images/team/Anima-Gogoi-Deka.jpg",
+    "text": [
+      "Anima Gogoi Deka focuses on Contract Management, Analysis and Advisory work. She has over a decade of experience working with companies across verticals like Manufacturing, Telecom, Pharmaceuticals and Software, providing solutions that meet their business needs. Her core competency lies in working with the internal teams in understanding the bottlenecks with unstructured contractual data, and providing solutions that increase service efficiency with a positive impact on cost and revenue.",
+      "Anima holds B.A LLB (Hons) from Delhi University."
+    ]
+  }
+]}
