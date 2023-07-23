@@ -14,7 +14,7 @@ export default function Contact() {
           <span className="font-bold"> email</span>.
         </p>
       </Container>
-      <Container className="pb-32 grid grid-cols-2 gap-8">
+      <Container className="pb-32 grid lg:rid-cols-2 gap-8">
         <ul className=" ">
           <h5 className="text-4xl text-al-primary mb-5"> Λrgħyä Legal </h5>
           {FooterContactData.contact.map((item) => {
