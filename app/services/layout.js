@@ -8,7 +8,7 @@ export const metadata = {
 export default function PageLayout({ children }) {
   return (
     <>
-      <HeroPage image="/images/bg.jpg" title="Services"/>
+      <HeroPage image="/images/bg.jpg" title="Our Services"/>
       <main>{children}</main>
     </>
   );
