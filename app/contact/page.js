@@ -7,7 +7,7 @@ export default function Contact() {
   return (
     <div>
       <Container className="py-32">
-        <p className="text-4xl w-2/3 md:w-1/2 font-light leading-relaxed">
+        <p className="text-4xl w-5/6 md:w-1/2 font-light leading-relaxed">
           We look forward to connect with you
           <span className="font-bold"> in‑person,</span> by
           <span className="font-bold"> phone</span> or by
