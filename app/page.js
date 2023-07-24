@@ -57,8 +57,11 @@ export default function Home() {
       </section>
 
       <Container className="py-20 grid md:grid-cols-2">
-        <Form />
-        <div>
+      <div className="mb-20">
+           <Form />
+      </div>
+     
+        <div className="mb-20">
           <h5 className="text-4xl mb-5">FAQ</h5>
           {FAQs.map((faq) => {
             return <Accordian key={faq.id} faq={faq} />;
