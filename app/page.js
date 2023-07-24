@@ -56,7 +56,7 @@ export default function Home() {
         </Container>
       </section>
 
-      <Container className="py-20 grid grid-cols-2">
+      <Container className="py-20 grid md:grid-cols-2">
         <Form />
         <div>
           <h5 className="text-4xl mb-5">FAQ</h5>
