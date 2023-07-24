@@ -9,17 +9,17 @@ export default function TeamItem({ team }) {
             className="mb-5 rounded-sm"
             src={team.image}
             alt={team.name}
-            width={640}
-            height={480}
+            width={480}
+            height={360}
           />
           <div className="md:col-span-2">
-            <h3 className="text-2xl font-semibold leading-7 tracking-tight text-gray-900 mb-5">
+            <h3 className="text-2xl font-semibold leading-7  tracking-tight text-gray-900 mb-5">
               {team.name}
             </h3>
             {team.text.map((item, index) => (
               <p
                 key={index}
-                className="mb-2"
+                className="mb-2 text-justify"
               >
                 {item}
               </p>

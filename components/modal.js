@@ -1,11 +1,21 @@
 "use client";
+import { useEffect } from "react";
 import { Dialog, Transition } from "@headlessui/react";
 import { Fragment, useState } from "react";
 import ButtonOutlineBlack from "./button-outline-black";
 import ButtonOutline from "./button-outline";
 
 export default function MyModal() {
-  let [isOpen, setIsOpen] = useState(true);
+  const [isOpen, setIsOpen] = useState(true);
+
+  useEffect(() => {
+    const data = window.localStorage.getItem("DISCLAIMER");
+    if (data !== null) setIsOpen(JSON.parse(data));
+  }, []);
+
+  useEffect(() => {
+    window.localStorage.setItem("DISCLAIMER", JSON.stringify(isOpen));
+  }, [isOpen]);
 
   function closeModal() {
     setIsOpen(false);
@@ -45,28 +55,26 @@ export default function MyModal() {
                     Disclaimer
                   </Dialog.Title>
                   <div className="mt-2">
-                    <p className="text-md text-gray-500">
+                    <p className="text-md text-gray-500 text-justify">
                       The current rules of the Bar Council of India does not
                       permit advertisement or solicitation by advocates in any
                       form or manner.
-                      <br className="mb-2"/>
+                      <br className="mb-2" />
                       By agreeing to access this site, you confirm that you are
                       seeking information relating to Arghya Legal on your own
                       accord. The content of this website is for informational
                       purposes only and should not be interpreted as legal
                       advice or advertisement.
-                      <br className="mb-2"/>
+                      <br className="mb-2" />
                       Arghya Legal is the owner of all intellectual property
-                      related to this website.
-                      <br className="mb-2"/>
+                      related to this website
+                      <br className="mb-2" />
                       We disclaim liability of any nature arising from any
                       information or materials which form a part of this site.
                     </p>
                   </div>
                   <div className="mt-4">
-                    <ButtonOutline onClick={closeModal}>
-                    I Agree
-                    </ButtonOutline>
+                    <ButtonOutline onClick={closeModal}>I Agree</ButtonOutline>
                     {/* <ButtonOutlineBlack onClick={closeModal}>
                       Got it, thanks!
                     </ButtonOutlineBlack> */}

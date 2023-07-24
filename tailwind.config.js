@@ -8,8 +8,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'al-primary': '#E0C084',
-        'al-secondary': '#e39b16', 
+        'al-primary': '#D0AC68',
+        'al-primary-old': '#E0C084',
+        'al-secondary': '#e0c08540', 
         'nne-font': '#222222',
       },
       backgroundImage: {

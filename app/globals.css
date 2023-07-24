@@ -17,7 +17,8 @@
 } */
 
 html {
-  font-family: var(--font-ubuntu);
+  font-family: var(--font-montserrat);
+  /* color: #e0c08540; */
 }
  
 /* h1, h2, h3, h4 {
@@ -28,8 +29,7 @@ h5, h6, p {
   font-family: var(--font-ubuntu);
 } */
 
-body { 
-  /* color: #e39b16; */
+/* body {  
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
@@ -37,4 +37,4 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-}
+} */

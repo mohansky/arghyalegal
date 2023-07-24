@@ -2,6 +2,6 @@ import Link from "next/link";
 
 export default function Links({href, className, children}) {
   return (
-    <Link href={href} className={`text-white hover:text-slate-300 ${className}`}>{children}</Link>
+    <Link href={href} className={`text-gray-900 hover:text-gray-600 ${className}`}>{children}</Link>
   )
 }

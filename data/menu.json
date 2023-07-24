@@ -7,22 +7,28 @@
       "id": 1
     },
     {
-      "name": "About Us",
-      "URL": "/about",
+      "name": "Why Us",
+      "URL": "/whyus",
       "weight": 2,
       "id": 2
     },
     {
-      "name": "Our Services",
-      "URL": "/services",
+      "name": "Our Team",
+      "URL": "/team",
       "weight": 3,
       "id": 3
     },
     {
-      "name": "Contact",
-      "URL": "/contact",
+      "name": "Our Services",
+      "URL": "/services",
       "weight": 4,
       "id": 4
+    },
+    {
+      "name": "Contact",
+      "URL": "/contact",
+      "weight": 5,
+      "id": 5
     }
   ]
 }

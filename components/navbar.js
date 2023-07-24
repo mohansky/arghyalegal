@@ -4,35 +4,33 @@ import { Disclosure, Menu, Transition } from "@headlessui/react";
 import { Icon } from "@iconify/react";
 import Image from "next/image";
 import Menuitems from "@/data/menu.json";
-// import { useRouter } from 'next/navigation';
-import { usePathname } from 'next/navigation'
+import { usePathname } from "next/navigation";
+import Link from "next/link";
 
 export default function NavBar() {
-  // const router = useRouter();
-  const pathname = usePathname()
-  console.log(pathname)
+  const pathname = usePathname();
   return (
     <Disclosure
       as="nav"
-      className="bg-white shadow-sm sticky w-full top-0 z-10"
+      className="backdrop-blur-md border-b-2 border-al-primary shadow-sm sticky w-full top-0 z-30"
     >
       {({ open }) => (
         <>
           <div className="w-[95%] sm:w-[85%] mx-auto">
-            <div className="relative flex h-16 items-center justify-between">
+            <div className="relative flex h-20 md:h-24 lg:h-32 items-center justify-between">
               <div className="absolute inset-y-0 right-2 flex items-center sm:hidden">
-                <Disclosure.Button className="inline-flex items-center justify-center rounded-md p-2 text-gray-900 hover:bg-gray-50 hover:text-gray-800 focus:outline-none focus:ring-0 focus:ring-inset focus:ring-white">
+                <Disclosure.Button className="inline-flex items-center justify-center rounded-md p-2 text-gray-900 hover:bg-gray-50/20 hover:text-gray-800 focus:outline-none focus:ring-0 focus:ring-inset focus:ring-white">
                   <span className="sr-only">Open main menu</span>
                   {open ? (
                     <Icon
                       icon="heroicons:x-mark"
-                      className="h-8 w-8"
+                      className="h-8 w-8 text-al-primary"
                       aria-hidden="true"
                     />
                   ) : (
                     <Icon
                       icon="heroicons:bars-3"
-                      className="h-8 w-8"
+                      className="h-8 w-8 text-al-primary"
                       aria-hidden="true"
                     />
                   )}
@@ -40,21 +38,23 @@ export default function NavBar() {
               </div>
               <div className="w-full flex justify-between">
                 <div className="my-auto">
-                  <Image
-                    src="/images/logos/al-logo.svg"
-                    alt="Argya Legal Logo"
-                    className="block lg:hidden"
-                    width="50"
-                    height="50"
-                  />
-                  <Image
-                    src="/images/logos/al-logo.svg"
-                    alt="Argya Legal Logo"
-                    className="hidden lg:block"
-                    width="50"
-                    height="50"
-                    title="Argya Legal"
-                  />
+                  <Link href="/">
+                    <Image
+                      src="/images/logos/al-logo.svg"
+                      alt="Argya Legal Logo"
+                      className="block lg:hidden"
+                      width="50"
+                      height="50"
+                    />
+                    <Image
+                      src="/images/logos/al-logo.svg"
+                      alt="Argya Legal Logo"
+                      className="hidden lg:block"
+                      width="50"
+                      height="50"
+                      title="Argya Legal"
+                    />
+                  </Link>
                 </div>
                 <div className="hidden my-auto sm:mr-0 sm:block">
                   <div className="flex space-x-4">
@@ -64,7 +64,11 @@ export default function NavBar() {
                           <a
                             key={item.id}
                             href={item.URL}
-                            className={`hover:text-gray-600 hover:bg-slate-100  px-3 py-2 text-lg font-medium transition duration-300 ease-in-out ${pathname == `${item.URL}` ? "text-al-primary border-b-2 border-al-primary" : "text-gray-800"}`}
+                            className={` hover:bg-slate-100/10 text-al-primary px-3 py-2 text-lg transition duration-300 ease-in-out ${
+                              pathname == `${item.URL}`
+                                ? "font-normal"
+                                : "font-bold"
+                            }`}
                             aria-current="page"
                           >
                             {item.name}
@@ -122,7 +126,11 @@ export default function NavBar() {
                     <li key={item.id} className="text-center mb-3">
                       <a
                         href={item.URL}
-                        className={`hover:text-gray-600 hover:bg-slate-100  px-3 py-2 text-lg font-medium transition duration-300 ease-in-out ${pathname == `${item.URL}` ? "text-al-primary border-b-2 border-al-primary" : "text-gray-800"}`}
+                        className={` hover:bg-slate-100/10 text-al-primary px-3 py-2 text-lg transition duration-300 ease-in-out ${
+                          pathname == `${item.URL}`
+                            ? "font-normal"
+                            : "font-bold"
+                        }`}
                       >
                         {item.name}
                       </a>

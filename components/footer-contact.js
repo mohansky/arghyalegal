@@ -9,12 +9,13 @@ export default function FooterContact() {
           return (
             <li key={item.id} className="mb-3">
               <ContactItem
-                className="text-white hover:text-gray-300"
+                className="text-gray-900 hover:text-gray-600"
                 name={item.name}
                 title={item.title}
                 href={item.href}
                 arialabel={item.arialabel}
                 text={item.text}
+                icon={item.icon}
               />
             </li>
           );
