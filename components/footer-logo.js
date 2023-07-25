@@ -10,8 +10,8 @@ export default function FooterLogo() {
           className="mx-auto mb-3"
           src="/images/logos/al-logo.svg"
           alt="A"
-          width="200"
-          height="200"
+          width="100"
+          height="100"
         />  
         <p className="text-center text-al-primary text-xl"> Λrgħyä Legal </p>
       </Links>

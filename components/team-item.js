@@ -13,9 +13,12 @@ export default function TeamItem({ team }) {
             height={360}
           />
           <div className="md:col-span-2">
-            <h3 className="text-2xl font-semibold leading-7  tracking-tight text-gray-900 mb-5">
+            <h3 className="text-2xl font-semibold leading-7 tracking-tight text-gray-900 mb-1">
               {team.name}
             </h3>
+            <p className="leading-7 font-medium tracking-tight text-gray-900 mb-5">
+              {team.role}
+            </p>
             {team.text.map((item, index) => (
               <p
                 key={index}

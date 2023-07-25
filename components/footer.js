@@ -7,12 +7,15 @@ import FooterLogo from "./footer-logo";
 export default function Footer() {
   return (
     <footer className="bg-al-secondary border-t-8 border-al-primary mt-5">
-      <Container className="text-white py-14 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+      {/* <Container className="text-white py-14 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8"> */}
+      <div className="text-white py-14 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
         <FooterLogo/> 
         <FooterContact />
         <FooterMenu /> 
+
+        </div>
         {/* <Developer /> */}
-      </Container>
+      {/* </Container> */}
     </footer>
   );
 }

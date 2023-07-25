@@ -1,18 +1,23 @@
 "use client";
+import dynamic from "next/dynamic";
 import { Fragment } from "react";
-import { Disclosure, Menu, Transition } from "@headlessui/react";
+
 import { Icon } from "@iconify/react";
 import Image from "next/image";
 import Menuitems from "@/data/menu.json";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
+const DisclosureButton = dynamic(() => import("@headlessui/react"), {
+  ssr: false,
+});
+import { Disclosure, Menu, Transition } from "@headlessui/react";
 
 export default function NavBar() {
   const pathname = usePathname();
   return (
     <Disclosure
       as="nav"
-      className="backdrop-blur-md border-b-2 border-al-primary shadow-sm sticky w-full top-0 z-30"
+      className="backdrop-blur-3xl border-b-2 border-al-primary shadow-sm sticky w-full top-0 z-30"
     >
       {({ open }) => (
         <>
@@ -38,7 +43,7 @@ export default function NavBar() {
               </div>
               <div className="w-full flex justify-between">
                 <div className="my-auto">
-                  <Link href="/">
+                  <Link href="/" className="flex ">
                     <Image
                       src="/images/logos/al-logo.svg"
                       alt="Argya Legal Logo"
@@ -49,11 +54,14 @@ export default function NavBar() {
                     <Image
                       src="/images/logos/al-logo.svg"
                       alt="Argya Legal Logo"
-                      className="hidden lg:block"
-                      width="50"
-                      height="50"
+                      className="hidden lg:block "
+                      width="75"
+                      height="75"
                       title="Argya Legal"
                     />
+                    <p className="text-al-primary font-bold text-lg text-center  mt-14 ml-1 mr-5 mb-3">
+                      Partnering for success
+                    </p>
                   </Link>
                 </div>
                 <div className="hidden my-auto sm:mr-0 sm:block">

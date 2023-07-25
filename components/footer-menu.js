@@ -8,7 +8,7 @@ export default function FooterMenu() {
       <ul className="hidden md:block">
         {Menuitems.menu.map((item) => {
           return (
-            <li key={item.id} className="mb-3">
+            <li key={item.id} className="mb-1">
               <Links href={item.URL}>{item.name}</Links>
             </li>
           );

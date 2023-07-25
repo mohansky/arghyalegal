@@ -4,6 +4,7 @@
   "team": [
   {
     "name": "Ankur Deka Rabha",
+    "role": "Managing Partner",
     "image": "/images/team/ankur.jpg",
     "text": [
       "Ankur Deka Rabha focuses on Commercial Transactions, Training, Advisory and Dispute Resolution services for the firm.",
@@ -14,6 +15,7 @@
   },
   {
     "name": "Anima Gogoi Deka",
+    "role": "Partner",
     "image": "/images/team/anima.jpg",
     "text": [
       "Anima Gogoi Deka focuses on Contract Management, Analysis and Advisory work. She has over a decade of experience working with companies across verticals like Manufacturing, Telecom, Pharmaceuticals and Software, providing solutions that meet their business needs. Her core competency lies in working with the internal teams in understanding the bottlenecks with unstructured contractual data, and providing solutions that increase service efficiency with a positive impact on cost and revenue.",

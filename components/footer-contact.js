@@ -4,7 +4,7 @@ import FooterContactData from "../data/footercontact.json";
 export default function FooterContact() {
   return (
     <>
-      <ul className="mx-auto sm:mx-0">
+      <ul className="mx-auto sm:mx-0 md:col-span-2">
         {FooterContactData.contact.map((item) => {
           return (
             <li key={item.id} className="mb-3">

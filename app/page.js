@@ -17,8 +17,8 @@ export default function Home() {
     <main>
       <Hero />
       <MyModal />
-      <Container className="py-1">
-        <p className="text-2xl lg:w-5/6 text-justify font-light leading-relaxed">
+      <Container className="py-32">
+        <p className="lg:w-5/6 text-justify font-light leading-relaxed">
           <span className="text-al-primary"> Λrgħyä Legal </span>
           is a boutique law firm offering commercial transaction, contract
           management, Regulatory Compliance and Training and dispute resolution

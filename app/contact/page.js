@@ -21,7 +21,7 @@ export default function Contact() {
             return (
               <li key={item.id} className="mb-3">
                 <ContactItem
-                  className="text-black hover:text-gray-600 text-2xl"
+                  className="text-black hover:text-gray-600"
                   name={item.name}
                   title={item.title}
                   href={item.href}
