@@ -1,12 +1,11 @@
 "use client";
-import { useEffect } from "react";
+import { useEffect, useRef, Fragment, useState } from "react";
 import { Dialog, Transition } from "@headlessui/react";
-import { Fragment, useState } from "react";
-import ButtonOutlineBlack from "./button-outline-black";
 import ButtonOutline from "./button-outline";
 
 export default function MyModal() {
   const [isOpen, setIsOpen] = useState(true);
+  const modalButtonRef = useRef(null)
 
   useEffect(() => {
     const data = window.localStorage.getItem("DISCLAIMER");
@@ -29,6 +28,7 @@ export default function MyModal() {
     <>
       <div className="fixed inset-0 items-center justify-center hidden">
         <button
+        //  ref={modalButtonRef}
           type="button"
           onClick={openModal}
           className="rounded-md bg-black bg-opacity-20 px-4 py-2 text-sm font-medium text-white hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75"
@@ -38,7 +38,7 @@ export default function MyModal() {
       </div>
 
       <Transition appear show={isOpen} as={Fragment}>
-        <Dialog as="div" className="relative z-40" onClose={closeModal}>
+        <Dialog as="div" className="relative z-40" onClose={closeModal} initialFocus={modalButtonRef}>
           <Transition.Child
             as={Fragment}
             enter="ease-out duration-300"
