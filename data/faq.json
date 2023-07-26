@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "How do you bill for your legal services?",
+    "answer": "The average person who needs a lawyer can’t typically afford one. That’s what billing is for—you don’t expect your clients to pay all their costs upfront. Perhaps you require a retainer to start, followed by monthly payments. And then there’s the question of how you charge: by the hour, a la carte (for specific legal services), per case type, etc. People will want to know as much as they can find out about your billing and rates before they make a decision as to who to work with. The transparency that you provide is often more important than the actual prices for your services, so don’t be hesitant to post fees and rates on your website. "
+  },
+  {
+    "id": 2,
+    "question": "Will there be more than one attorney working on my case?",
+    "answer": "Some law firms have teams or partners that work on cases together, while others assign cases to one attorney, and they are the only one who handles it. Clients, naturally, may also have a preference here or at least may want to know what to expect. Make sure that you provide this question and answer it honestly. Explain the process as much as you can so that people have a good idea of what to expect. Just like with your pricing, transparency is key. Especially in something like the legal process, it’s helpful to have as much insight as possible to make it less intimidating and stressful."
+  },
+  {
+    "id": 3,
+    "question": "What should I bring to the consultation or first meeting?",
+    "answer": "People may not know what they need to bring with them, or that they need to bring anything at all. Of course, the exact paperwork or documents you need may vary depending on the specific claim or case they have, but you can at least provide a general answer here. Let them know that they should bring any relevant paperwork, their ID, any existing legal documentation (including police records), and so forth. You can also advise them here that once they call for a consultation, you’ll be able to provide them with an exact list of what to bring. If you’ve got public records access, you could even go the extra step and tell them you’ll take care of the document fetching for them."
+  },
+  {
+    "id": 4,
+    "question": "What is the typical legal process like?",
+    "answer": "Everyone wants to know what to expect. The problem is that no legal process is “typical”. While proceedings can be similar, and while case lengths can have a limited range in some instances, every single case is different. We know what you’re thinking: so why offer this Q&A? Well, here’s the thing—it’s another way to show people your tailored approach and reassure them that you’ll do your best to make sure they’re informed and prepared every step of the way. You can describe general legal events and processes if you’d like, or even link to a loose guideline for all the different types of practice areas that you cover. One thing you can do is to make a timeline with events that have a more specific time frame and note the events that may be more dependent on the circumstances or case itself."
+  },
+  {
+    "id": 5,
+    "question": "What types of cases does your law firm handle?",
+    "answer": "This one should be pretty obvious. People need to know what you do. Not all lawyers handle all types of cases—make sure you make it clear for people, so you don’t waste their time. When it comes to legal issues, people have enough to worry about. Trying to figure out whether or not you’ll handle their case is not something they want to add to their list. Even if you have good navigation with a full list of practice areas, you should still include this question on your FAQ page. It guarantees that people instantly have a way to get the answers they want and reaffirms that you want to make it easy for them by using your FAQs like this."
+  }
+]
