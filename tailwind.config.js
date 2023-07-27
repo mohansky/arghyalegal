@@ -10,8 +10,10 @@ module.exports = {
       colors: {
         'al-primary': '#D0AC68',
         'al-primary-old': '#E0C084',
-        'al-secondary': '#e0c08540', 
-        'nne-font': '#222222',
+        'al-secondary': '#e0c08540',
+      },
+      fontFamily: {
+        sans: ['var(--font-montserrat)'],
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
@@ -21,6 +23,6 @@ module.exports = {
     },
   },
   plugins: [
-    require('@tailwindcss/forms'),
+    require('@tailwindcss/forms'), 
   ],
 }

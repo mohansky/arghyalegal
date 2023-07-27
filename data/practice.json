@@ -1,0 +1,60 @@
+{
+  "title": "Practice Areas",
+  "subtitle": [
+    "Being exposed to complex issues working in a variety of industry sectors, our business savvy lawyers have the relevant experience and expertise in the below practice areas. Please feel free to contact us at.",
+    "enquiry@arghyalegal.com for specific queries and detailed discussions. Although we focus on the below practice areas, we also assist our Clients to find the right resource at optimal costs without compromising on quality and outcome."
+  ],
+  "practices": [
+    {
+      "id": 1,
+      "title": "Commercial Transactions",
+      "img": "/images/work/contracts.jpg",
+      "url": "#1",
+      "subtitle": "We understand the importance of contracts to protect the rights and obligations of our Clients when they do business with third parties.  Our experienced lawyers provide the right guidance and relevant documents for every business need. We also partner with our Clients to assist in negotiating contracts with third parties to ensure risk coverage. Below are some of the areas we cover through our services.",
+      "text": [
+        "Contract Pre-execution Stage: Pre-execution support includes, amongst others, guiding business with the right document for a particular business transaction, providing contract templates, drafting and reviewing of existing and new contracts, negotiations with third parties to ensure protection of  Client’s interest.",
+        "Contract Post-execution Stage: Post execution support includes analysing executed contracts to highlight risks and deviation from standard practises. We help renegotiate terms on behalf of our Clients which protect their interest."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Regulatory Compliance & Training",
+      "img": "/images/work/documentation.jpg",
+      "url": "#2",
+      "subtitle": "Compliance with the law of the land is key to a company’s success. There are also various regulations which mandates companies have in place internal mechanisms to sensitise and train its employees on compliance of law. Over time we have seen during a violation, the absence of such mechanisms only aggravates issues for the company. Hence, we help companies to",
+      "text": [
+        "We do gap analysis to Identify gaps.",
+        "Assist in drafting of standard operating procedures and documentation",
+        "Assist in the setting up of various committees.",
+        "Adhere to proper procedures during investigations and subsequent consequences which may follow therefrom.",
+        "We have seen from our past experience that there has to be a two way approach to training and sensitising employees in an organisation viz. (i) training new employees during induction (ii) training existing employees. Some of the areas we focus on are  Antitrust, preparedness for  Dawn Raids, POSH and Ethics and Compliance."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Contracts Management",
+      "img": "/images/work/complaince.jpg",
+      "url": "#3",
+      "subtitle": "A common challenge faced by companies across verticals is having an insight to their contractual commitments. The sheer volume of data accumulated over a period of time makes it extremely overwhelming for individuals and teams to easily track and understand this information. To find a customer contract and look for relevant information would mean many man hours scanning through folders and unorganised contracts, leading to delays in decision making and perhaps having a critical impact on business. Our services will help:",
+      "text": [
+        "Have access to organised contractual data in a format suitable to your needs. For inhouse legal teams it saves time by giving easy access to information required and free up time to spend on other critical work. Legal can use this information to empower other teams to make timely decisions by providing quick access to contract data requested.",
+        "Understand areas where there are deviations from regular standards and considerations made which are unfavourable for the company. Enforce company standards and renegotiate restrictive clauses wherever possible.",
+        "Help other teams stay on top of things which are critical for their business. Sales teams can access upcoming renewals to proactively push for renewals and look for opportunities to expand the relationship. Finance teams can easily track high value customer transactions to focus, enforce price escalations to generate more revenue growth."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Dispute Resolution",
+      "img": "/images/work/contracts.jpg",
+      "url": "#4",
+      "subtitle": "In line with our vision of enhancing productivity for the inhouse legal team and saving on litigation cost for the company, our first approach during a possible litigious situation is always to facilitate mediation and guide both parties to reach an amicable settlement. Nonetheless, as a precautionary measure, we do collaborate with business though inhouse legal teams during such foreseeable litigation  scenarios to guide and assist the business on the right way to correspond, , collation of relevant documents and work on strategy and preparedness to handle actual litigation in future. Our lawyers have the experience and exposure nationally to  find the right resource at short notice as we understand the importance of time and quick action for favourable results during such situations. Some of the focus areas are:",
+      "text": [
+        "Guiding business teams in replying to notices ",
+        "Assisting in collation of relevant documents.",
+        "Strategic advice for ongoing litigations.",
+        "Assist in finding the right effective resource for matters in courts.",
+        "Overall litigation management."
+      ]
+    }
+  ]
+}
