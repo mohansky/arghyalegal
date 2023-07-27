@@ -14,6 +14,8 @@ export default function WorkSlide({ practice }) {
         width={1280}
         height={1080}
         className=" "
+        placeholder="blur"
+        blurDataURL={practice.imageBlurUrl}
       />
 
       <div className="bg-al-primary w-full h-full p-10">
