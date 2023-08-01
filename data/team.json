@@ -1,0 +1,27 @@
+{
+  "title":"Meet our Team",
+  "subtitle":"Our team has more than two decades of rich experience.",
+  "team": [
+  {
+    "name": "Ankur Deka Rabha",
+    "role": "Managing Partner",
+    "image": "/images/team/Ankur-Deka-Rabha1x1.jpg",
+    "imageBlurUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABRAFEDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDYppp1NapGiNqiapGNQsaChppRTc0ooAlWpFqNakWgRIKdTRThQIKKKKAEpjGnE1GxoGRuahY09zVdmoGOzT1NQbqkQ0AWFqVahQ1MtAiQU6mCnUCFopKKAGE1E5pxNROaBkUjVWdqllNU5XxTAkDc1OjVQSTJq1E1DGXUNTKarIanU1IiYGnZqMGnZoEOzRTc0UARE1E5p5NROaBleU1nXD84q9MazZzl6pCuNViDV2B8gVQqa3fBxSY07mtG1WFNUomqyjUgLANOzUSmng0CH5opmaKAIyaiepDUb0hlWbpWbL/rDWlN0rMl++apEsbSqcMDSUVQGjC3FW0NZ1ueBV6M1ki2WVNSA1EtPFUSOzRSUUxDTUb0UVJRVm6VmS/fNFFUiWNoooqgLVv0q/HRRWXUtk61IKKKokKKKKYj/9k=",
+    "text": [
+      "Ankur Deka Rabha focuses on Corporate Advisory, E-commerce, Commercial Transaction, Training, Regulatory Compliance and Dispute Resolution for the firm.",
+      "Before being a part of the firm, he has spent nearly two decades in the industry and most of it as an in-house counsel managing and leading legal departments of multinational companies as General Counsel for Bosch Limited, Alstom Transports, EssilorLuxottica and Flipkart which have diversified business concerns across India and SouthEast Asia. Over the course of his career he has worked in various sectors like E-Commerce, Information Technology, Consumer Goods, Automobile, Energy, Manufacturing, Engineering, Rail Transportation, Medical Device.",
+      "Ankur is quick to understand a business and its expectations and collaborate with the internal teams to (i) undertake gap analysis (ii)identify problems areas, (ii) implement risk mitigation measures adhering to strict timelines. He has been a trendsetter in leading projects by collaborating with different internal and external stakeholders and bringing them up to gold standards.",
+      "Ankur holds B.A. LLB. (Hons) from National Law School of India University, Bengaluru. Karnataka."
+    ]
+  },
+  {
+    "name": "Anima Gogoi Deka",
+    "role": "Partner",
+    "image": "/images/team/Anima-Gogoi-Deka1x1.jpg",
+    "imageBlurUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABRAFEDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDTpDTqaaYDDTDTzTDSGNNFFFIYCnCkFKKYhRS0UUxBRRRQImppp1NNIYw0w080w0hiUUUtK4wFLQKWmmAUUUUyQooopgTU00tNNSMaaYaeaaaljG0oooqbjFpaSlqkIKKSiqQgooopiJc000ZpKQwNNNKaSoZQlFFFQMWikpM1SELRSZoqxC0UlFFxD80UlFDGLSUtJWbGJSUppDUjEoopKtCFopKKYhaKSigCSiiiqYC0lFFZsYhpDRRUjG0UUVSAKKKKoQUUUUCP/9k=",
+    "text": [
+      "Anima Gogoi Deka focuses on Contract Management, Analysis and Advisory work. She has over a decade of experience working with companies across verticals like Manufacturing, Telecom, Pharmaceuticals and Software, providing solutions that meet their business needs. Her core competency lies in working with the internal teams in understanding the bottlenecks with unstructured contractual data, and providing solutions that increase service efficiency with a positive impact on cost and revenue.",
+      "Anima holds B.A LLB (Hons) from Delhi University, New Delhi."
+    ]
+  }
+]}
