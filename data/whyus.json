@@ -1,0 +1,45 @@
+{
+  "title": "Why us?",
+  "items": [
+    {
+      "id": 1,
+      "title": "Partnership",
+      "text": "We foster collaboration with inhouse legal and business teams to proactively understand their business and related bottlenecks in order to provide custom-made solutions with quick turnaround times. We also function as an in-house legal department for startups and small enterprises to provide guidance on not only all things legal but also other areas like brand protection, insurance, statutory licensing, secretarial etc.  at optimal cost and transparency. This helps in not only reduction of costs but also allows the founders and higher leadership to focus more on business growth."
+    },
+    {
+      "id": 2,
+      "title": "Practicality",
+      "text": "For our solutions to be acceptable, we focus on usability and practicality. We put business first while working on Client issues.   We focus on bringing synergy between law, practicality  and business to come up with innovative solutions which suit the needs of our Clients. We provide solutions which are simple and easy to implement but also acceptable under law. We do not believe in providing our Clients with voluminous documents to justify quality. Unless necessary, our ultimate goal is to assist in the execution of documents which are simple and yet covers all aspects of our Clients interest and risks."
+    },
+    {
+      "id": 3,
+      "title": "Practicality",
+      "text": "We put business and practicality first while working on Client issues.   We focus on bringing synergy between law, practicality  and business to come up with innovative solutions which suit the needs of our Clients. We provide solutions which are simple and easy to implement and which are acceptable under law."
+    },
+    {
+      "id": 4,
+      "title": "Customisation",
+      "text": "We understand that one size does not fit all. Hence, our solutions are tailor made to suit the Client specific needs.  Our vast experience in our areas of expertise helps us to come up with multiple solutions to pick from."
+    },
+    {
+      "id": 5,
+      "title": "Responsiveness",
+      "text": "We value our Client’s business and understand the importance of quick turnaround times and its impact on business.. We work with our Clients to adhere to agreeable timelines for best results without compromising on the quality of our services."
+    },
+    {
+      "id": 6,
+      "title": "Accessibility",
+      "text": "We understand the anxiety of our Clients when an issue arises and they need our immediate assistance. To ensure seamless interaction and support at all times, a dedicated partner will be assigned to directly liaison with Clients. Availability and easy accessibility to our Clients remains a goal."
+    },
+    {
+      "id": 7,
+      "title": "Cost effectiveness",
+      "text": "In our quest to collaborate with inhouse legal teams, startups and small enterprises, it is our endeavour to work with them to find the most cost effective price structure which suits their budget.  We understand that each Client operates within a budget and our goal is to find the best value within that framework without compromising on accountability, availability and quality of services."
+    },
+    {
+      "id": 7,
+      "title": "Quality Work",
+      "text": "It remains our endeavour to maintain the highest standards of  quality in terms of the services that we provide. We undertake to ensure detail, accuracy, thoroughness, completeness in whatever we provide as services."
+    }
+  ]
+}

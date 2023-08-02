@@ -1,0 +1,34 @@
+{
+  "contact": [
+    {
+      "id": "1",
+      "name": "Arghya Legal",
+      "icon":"heroicons:map-pin",
+      "title": "Address on google maps",
+      "arialabel": "phone number +91 98862 58971",
+      "href": "https://goo.gl/maps/S6rsAL4c4xZzwWb96",
+      "text": [
+        "C-901, Sattva East Crest, Old Madras Road,", 
+        "Near Budigere Cross, Bangalore 560 049."
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Arghya Legal",
+      "icon":"bytesize:telephone",
+      "title": "Phone number +91 98862 58971",
+      "arialabel": "Phone number +91 98862 58971",
+      "href": "tel:00919886258971",
+      "text": ["+91 98862 58971"]
+    },
+    {
+      "id": "3",
+      "name": "Arghya Legal",
+      "icon":"heroicons:envelope",
+      "title": "Email enquiry@arghyalegal.com",
+      "arialabel": "Email enquiry@arghyalegal.com",
+      "href": "mailto:enquiry@arghyalegal.com",
+      "text": ["enquiry@arghyalegal.com"]
+    }
+  ]
+}
