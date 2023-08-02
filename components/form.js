@@ -6,7 +6,7 @@ export default function Form() {
   if (state.succeeded) {
     return (
       <p className="text-2xl">
-        Thank you for your message we wll get back to you as soon as possible.
+        Thank you for your message we will get back to you as soon as possible.
       </p>
     );
   }
