@@ -1,9 +1,5 @@
 "use client";
-import { useForm, ValidationError } from "@formspree/react";
-import Button from "./button";
-import ButtonOutlineBlack from "./button-outline-black";
-import ButtonBlack from "./button-black";
-import ButtonForm from "./button-form";
+import { useForm, ValidationError } from "@formspree/react"; 
 
 export default function Form() {
   const [state, handleSubmit] = useForm("xleygnyp");
@@ -72,9 +68,16 @@ export default function Form() {
           </label>
         </div>
       </div>
-      <ButtonForm className="mt-5" type="submit" disabled={state.submitting}>
+      <button
+        className="mt-5 inline-flex justify-center rounded-sm border border-gray-900 my-2 px-6 py-4  
+      hover:bg-gray-700 text-xl font-bold text-white bg-gray-900 hover:text-gray-100
+      transition duration-300 ease-in-out
+      focus:outline-none"
+        type="submit"
+        disabled={state.submitting}
+      >
         Submit
-      </ButtonForm>
+      </button>
     </form>
   );
 }
