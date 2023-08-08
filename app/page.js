@@ -28,10 +28,11 @@ export default function Home() {
           and efficiency by focusing more on critical big ticket items having a
           huge revenue impact for their company. Secondly, support startup
           founders and leadership of small enterprises to grow their fast paced
-          business in a structured and compliant manner by providing them with
-          access to a transparent and cost effective legal ecosystem and
-          managing their day to day business needs and risks from a legal
-          standpoint.
+          business by providing them a support ecosystem which not only takes
+          care of their legal needs but also cater to other requirements such as
+          tax, insurance, compliance, secretarial etc. This will enable them to
+          maintain a lean team to be more cost effective during early stages of
+          their venture.
           <br className="mb-5" />
           Our team has more than two decades of rich experience having practised
           in courts, worked with law firms and managing and leading legal
