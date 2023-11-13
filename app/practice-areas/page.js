@@ -1,14 +1,14 @@
 import Container from "@/components/container";
 import PracticesAreasList from "@/components/practice-areas-list";
 import Slider from "@/components/slider";
-import TitleFour from "@/components/title-four";
+import TitleThree from "@/components/title-three";
 import TitleTwo from "@/components/title-two";
 
 export default function PracticeAreas() {
   return (
     <main>
       <Container className="pt-32 pb-16">
-        {/* <TitleTwo>Practice Areas</TitleTwo> */}
+        <TitleThree>Our Core Areas of Expertise</TitleThree>
         <h3 className="mb-5 lg:w-5/6 text-justify">
           Our team has worked on various complex issues in the E-Commerce,
           Information Technology, Consumer Goods, Automobile, Energy,
