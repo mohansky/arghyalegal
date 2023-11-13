@@ -18,8 +18,9 @@ export default function Home() {
       <Container className="py-32">
         <p className="lg:w-5/6 text-justify  leading-relaxed">
           Λrgħyä Legal is a boutique law firm based in Bangalore offering
-          Corporate Advisory, Commercial Transaction, Contract Management,
-          Regulatory Compliance, Training and Dispute Resolution services in the
+          Corporate Advisory, Contracts & Negotiations, Company Secretarial,
+          Intellectual Property, Due Diligence, Contract Management, Regulatory
+          Compliance, Training and Dispute Resolution services in the
           E-commerce, Information Technology, Manufacturing and Startup space.
           <br className="mb-5" />
           The firm was set up with two main objectives in mind. Firstly, to
