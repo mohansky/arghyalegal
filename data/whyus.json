@@ -3,38 +3,38 @@
   "items": [
     {
       "id": 1,
-      "title": "Partnership",
-      "text": "We foster collaboration with inhouse legal and business teams to proactively understand their business and related bottlenecks in order to provide custom-made solutions with quick turnaround times. We also function as an external in-house legal department for startups and small enterprises to provide guidance on not only all things legal but also other areas like brand protection, insurance, statutory licensing, secretarial etc. at optimal cost and transparency. This helps in not only reduction of costs but also allows the founders and higher leadership to focus more on business growth."
+      "title": "Cost effectiveness:  ",
+      "text": "It is our constant endeavour to work with our clients and provide them with the most cost-effective price structure which suits their budget since we understand that each of them operates within a tight budget. This is without ever compromising on our quality of services. Our services are competitively priced as it is our desire to be accessible to businesses of all sizes. We want to partner with our clients to assist them to the right utilisation of resources, increase revenue and improve performance in the long run."
     },
     {
       "id": 2,
-      "title": "Practicality",
-      "text": "For our solutions to be acceptable, we focus on usability and practicality. We put business first while working on Client issues.   We focus on bringing synergy between law, practicality  and business to come up with innovative solutions which suit the needs of our Clients. We provide solutions which are simple and easy to implement but also acceptable under law. We do not believe in providing our Clients with voluminous documents to justify quality. Unless necessary, our ultimate goal is to assist in the execution of documents which are simple and yet covers all aspects of our Clients interest and risks."
+      "title": "Availability and Accessibility: ",
+      "text": "We understand the anxiety of our clients when an issue arises and they require immediate assistance. To ensure seamless interaction and support at all times, a dedicated single point of contact will be assigned to directly liaison with clients. We always strive to maintain our availability for our clients at all times."
+    },
+    {
+      "id": 3,
+      "title": "Quality Work: ",
+      "text": "One of the main tenets for which Λrgħyä legal was set up was to bring value to our clients by offering quality services at affordable rates. We undertake to ensure detail, accuracy, thoroughness, completeness in whatever we provide as services. Our services solve our client’s problems, meet their needs and create an overall positive impact on its business."
     },
     {
       "id": 4,
-      "title": "Customisation",
-      "text": "We understand that one size does not fit all. Hence, our solutions are tailor made to suit the Client specific needs.  Our vast experience in our areas of expertise helps us to come up with multiple solutions to pick from."
+      "title": "Partnership: ",
+      "text": "We focus on building long-term relationships. Understanding our client’s business and expectations is very essential before we start a relationship and provide any kind of services since it has to be catered to their specific business needs and expectations. This is the first step to fostering lasting partnerships which is more than just the regular lawyer - client commercial relationship.  We not only give the solution but also work alongside our clients to ensure actual implementation, either by working together and or by taking lead on their behalf and working with various internal business teams for implementation."
     },
     {
       "id": 5,
-      "title": "Responsiveness",
-      "text": "We value our Client’s business and understand the importance of quick turnaround times and its impact on business.. We work with our Clients to adhere to agreeable timelines for best results without compromising on the quality of our services."
+      "title": "Practicality: ",
+      "text": "For our solutions to be acceptable from a business perspective, we focus on looking at law from a practical perspective. Our inhouse experience coupled with an entrepreneurial mindset enables us to put business first while working on client issues.   We focus on bringing synergy between law, practicality and business to come up with innovative solutions which suit the needs of our clients. We provide solutions which are simple and easy to implement but also acceptable under law."
     },
     {
       "id": 6,
-      "title": "Accessibility",
-      "text": "We understand the anxiety of our Clients when an issue arises and they need our immediate assistance. To ensure seamless interaction and support at all times, a dedicated partner will be assigned to directly liaison with Clients. Availability and easy accessibility to our Clients remains a goal."
+      "title": "Customisation: ",
+      "text": "We understand that one size does not fit all. Hence, our solutions are tailor made to suit client specific needs.  Our vast experience in our areas of expertise helps us to come up with multiple solutions to pick from. That is also one of the reasons that every client is connected to a single point of contact who spends time to get to know a client, its business and then personalizes the services to suit their specific needs. This includes predicting a client’s requirements well in advance and providing them with the necessary information/services/documents to deal with such requirements well ahead of time."
     },
     {
       "id": 7,
-      "title": "Cost effectiveness",
-      "text": "In our quest to collaborate with inhouse legal teams, startups and small enterprises, it is our endeavour to work with them to find the most cost effective price structure which suits their budget.  We understand that each Client operates within a budget and our goal is to find the best value within that framework without compromising on accountability, availability and quality of services."
-    },
-    {
-      "id": 7,
-      "title": "Quality Work",
-      "text": "It remains our endeavour to maintain the highest standards of  quality in terms of the services that we provide. We undertake to ensure detail, accuracy, thoroughness, completeness in whatever we provide as services."
+      "title": "Responsiveness: ",
+      "text": "We value our client’s business and understand the importance of quick turnaround times and its impact on business. We work with our clients to adhere to agreeable timelines for best results without compromising on the quality of our services. "
     }
   ]
 }
