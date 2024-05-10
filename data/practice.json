@@ -1,41 +1,85 @@
 {
-  "title": "Practice Areas",
+  "title": "AREAS OF EXPERTISE",
   "subtitle": [
-    "Being exposed to complex issues working in a variety of industry sectors, our business savvy lawyers have the relevant experience and expertise in the below practice areas. Please feel free to contact us at.",
-    "enquiry@arghyalegal.com for specific queries and detailed discussions. Although we focus on the below practice areas, we also assist our Clients to find the right resource at optimal costs without compromising on quality and outcome."
+    "Our team has worked on various complex issues in the E-Commerce, Information Technology, Consumer Goods, Automobile, Energy, Manufacturing, Engineering, Rail Transportation, Medical Device sectors.",
+    "Please feel free to contact us at enquiry@arghyalegal.com for specific queries and detailed discussions."
   ],
   "practices": [
     {
       "id": 1,
-      "title": "All things Startup",
+      "title": "ENTRY STRATEGIES FOR FOREIGN COMPANIES.",
       "img": "/images/practice-areas/startup.jpg",
       "imageBlurUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCACiAPMDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC1RRRVEhS0lFAC0UUUgFooooAKKKKBhRRRSAKSiigBKKKSgYUlLSUgEooooASiiimAUUUUAFFFFMQtFFFAgooooAKKKKYDqKSlpDClpKKBC0tJRQAtFJS0DFopKKAFpKKKQBRRSUDCkpaSgApKKKQCUUUUAJRRRTAKKKKACiilpiCiiigQUUUUAFFFFAC0UlFAxaKSloAWikooAdRSUUALRSUtIAooooAKKSigYUUUlIAoopKACiiigYlFFFMQUUUUAFLSUtMQUUUUAFFFFAgooooASikopFC0tJRQAtLTaWgBaKSigB1FJRQAtFJRQAtJRRQAUUUUgCkoooGFFFFACUUUUCCiilpgFFFFABRRRTEFFFFABRRRQA2ikoqShaKKKAFopKKAFpaSimIWikpaAClpKKAFpKKKQBRRRQMKKKKACiiigAooooAKKKKYgooooAKKKKYgooooAKKWigCOiloqShKWiigAooooAWiiigAooooAWiiigQUUUUDCiiigAooooAKKKKACilooASilopiEopaKAEpaKKACkpaKYhKKWigBlFLRUlCUUtFACUtFFABRRRQAUUtFAgooooAKKKWgYlLRRQAUUUUAFFFFABRRRQAUUUUxBRRRQAUUUUAFFFFAgooooASilopFCUUtFACUUUUCCilopgJRS0UAJS0UUAFFFFIAopaKBhRRRQAUUUUAFFFFABSUtFMQlFLSUAFFFFABRRRQAUUUUCCilooGJRS0UAJRS0UAJRS0UAJRS0UAJS0UUAFFFFABRRS0gEpaKKBhRRRQAlFLRTASilpKBBRRRQAlFFFABRRRQIKKKKAHUUUUDCkpaKAEopaSgAooooAKKKKACiiigApaKKACiiikAUUUUDCiiigAooopiCkpaSgAooooASiiigAooooEFFFFADqKKKBhRRRQAUUUUAJRRRQAUUUUAFFFFAC0UUUAFFFFABRRRSAKKKKBhRRRTAKSiigQUUUUAFJRRQAUUUUCCiiigD//2Q==",
       "url": "#1",
-      "subtitle": ["We provide handholding to startups in their early years mostly on:"],
-      "text": [
-        "Structuring and providing assistance for registration of new companies.",
-        "Guiding and assisting on procurement of regulatory licences.",
-        "Drafting various SOPs on compliances like anti-bribery, PoSH, gig workers etc.",
-        "Guide on labour and employment related issues.",
-        "Draft, review and negotiate on contracts for the business. We also train business teams to sensitise them on contract terms and help them to act as the first point of contact for negotiations with third parties.",
-        "Assist in implementing tax and insurance SOPs for companies and also assist in filing and litigation as and when required. ",
-        "Guide and assist on brand protection mainly with registering of trademark, designs and patents..",
-        "Assist in secretarial compliances in order to ensure that the company is in compliance   with existing regulations..",
-        "Standardising internal policies.",
-        "Public relations strategy.",
-        "Assist in hiring the right resource for your specific needs.",
-        "Advising on funding strategies.",
-        "Provide training on issues like PoSH, anti-bribery, ethics and compliance, legal basics etc."
+      "subtitle": [
+        "India is one of the most ideal destinations for foreign investors looking to set-up their businesses. However, before starting business operations in India, it is important for the investor to understand the laws that will apply to the business. This is where our team excels in providing strategic advisory to guide an investor for a hassle-free entry into India. Our team advises corporates and individual investors on variety of matters across this sector ranging from:"
       ],
-      "subtitle2": "We act as external legal in-house counsels for startups and take care of their day to day legal needs at a very cost effective pricing."
+      "text": [
+        "Guidance on entry strategy into India;",
+        "Assist in choosing the right set up for the client’s business keeping in mind future goals.",
+        "Assist in initial setup of company;",
+        "Company Secretarial assistance;",
+        "Labour and Employee Related Advisory;",
+        "Boardroom Strategy based on Investor specific needs;",
+        "Drafting of all relevant contractual documents required by the company to undertake  business with third parties.",
+        "Brand protection strategy; ",
+        "Assist in drafting initial documentation on governance framework and internal policies.",
+        "Providing end to end legal services;"
+      ]
     },
     {
       "id": 2,
-      "title": "E-Commerce",
+      "title": "MERGERS & ACQUISITIONS",
+      "img": "/images/practice-areas/startup.jpg",
+      "imageBlurUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCACiAPMDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC1RRRVEhS0lFAC0UUUgFooooAKKKKBhRRRSAKSiigBKKKSgYUlLSUgEooooASiiimAUUUUAFFFFMQtFFFAgooooAKKKKYDqKSlpDClpKKBC0tJRQAtFJS0DFopKKAFpKKKQBRRSUDCkpaSgApKKKQCUUUUAJRRRTAKKKKACiilpiCiiigQUUUUAFFFFAC0UlFAxaKSloAWikooAdRSUUALRSUtIAooooAKKSigYUUUlIAoopKACiiigYlFFFMQUUUUAFLSUtMQUUUUAFFFFAgooooASikopFC0tJRQAtLTaWgBaKSigB1FJRQAtFJRQAtJRRQAUUUUgCkoooGFFFFACUUUUCCiilpgFFFFABRRRTEFFFFABRRRQA2ikoqShaKKKAFopKKAFpaSimIWikpaAClpKKAFpKKKQBRRRQMKKKKACiiigAooooAKKKKYgooooAKKKKYgooooAKKWigCOiloqShKWiigAooooAWiiigAooooAWiiigQUUUUDCiiigAooooAKKKKACilooASilopiEopaKAEpaKKACkpaKYhKKWigBlFLRUlCUUtFACUtFFABRRRQAUUtFAgooooAKKKWgYlLRRQAUUUUAFFFFABRRRQAUUUUxBRRRQAUUUUAFFFFAgooooASilopFCUUtFACUUUUCCilopgJRS0UAJS0UUAFFFFIAopaKBhRRRQAUUUUAFFFFABSUtFMQlFLSUAFFFFABRRRQAUUUUCCilooGJRS0UAJRS0UAJRS0UAJRS0UAJS0UUAFFFFABRRS0gEpaKKBhRRRQAlFLRTASilpKBBRRRQAlFFFABRRRQIKKKKAHUUUUDCkpaKAEopaSgAooooAKKKKACiiigApaKKACiiikAUUUUDCiiigAooopiCkpaSgAooooASiiigAooooEFFFFADqKKKBhRRRQAUUUUAJRRRQAUUUUAFFFFAC0UUUAFFFFABRRRSAKKKKBhRRRTAKSiigQUUUUAFJRRQAUUUUCCiiigD//2Q==",
+      "url": "#2",
+      "subtitle": [
+        "Our advisory services  with regard to Mergers & Acquisitions involve:"
+      ],
+      "text": [
+        "Market Entry and Incorporation.",
+        "Guidance on all funding related aspects of a startup.",
+        "Structuring M&A deals based on client specific business needs and strategy;",
+        "Advising on Joint Venture strategies.",
+        "Advisory on Boardroom Strategy.",
+        "Buy-side and sell-side diligence.",
+        "Labour and Employee related advisory.",
+        "Pre and Post Merger Integration strategy.",
+        "Documentation and Negotiation.",
+        "Exits Strategy.",
+        "End to End legal support for newly acquired subsidiaries of Clients."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "LABOUR & EMPLOYMENT LAW",
+      "img": "/images/practice-areas/startup.jpg",
+      "imageBlurUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCACiAPMDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC1RRRVEhS0lFAC0UUUgFooooAKKKKBhRRRSAKSiigBKKKSgYUlLSUgEooooASiiimAUUUUAFFFFMQtFFFAgooooAKKKKYDqKSlpDClpKKBC0tJRQAtFJS0DFopKKAFpKKKQBRRSUDCkpaSgApKKKQCUUUUAJRRRTAKKKKACiilpiCiiigQUUUUAFFFFAC0UlFAxaKSloAWikooAdRSUUALRSUtIAooooAKKSigYUUUlIAoopKACiiigYlFFFMQUUUUAFLSUtMQUUUUAFFFFAgooooASikopFC0tJRQAtLTaWgBaKSigB1FJRQAtFJRQAtJRRQAUUUUgCkoooGFFFFACUUUUCCiilpgFFFFABRRRTEFFFFABRRRQA2ikoqShaKKKAFopKKAFpaSimIWikpaAClpKKAFpKKKQBRRRQMKKKKACiiigAooooAKKKKYgooooAKKKKYgooooAKKWigCOiloqShKWiigAooooAWiiigAooooAWiiigQUUUUDCiiigAooooAKKKKACilooASilopiEopaKAEpaKKACkpaKYhKKWigBlFLRUlCUUtFACUtFFABRRRQAUUtFAgooooAKKKWgYlLRRQAUUUUAFFFFABRRRQAUUUUxBRRRQAUUUUAFFFFAgooooASilopFCUUtFACUUUUCCilopgJRS0UAJS0UUAFFFFIAopaKBhRRRQAUUUUAFFFFABSUtFMQlFLSUAFFFFABRRRQAUUUUCCilooGJRS0UAJRS0UAJRS0UAJRS0UAJS0UUAFFFFABRRS0gEpaKKBhRRRQAlFLRTASilpKBBRRRQAlFFFABRRRQIKKKKAHUUUUDCkpaKAEopaSgAooooAKKKKACiiigApaKKACiiikAUUUUDCiiigAooopiCkpaSgAooooASiiigAooooEFFFFADqKKKBhRRRQAUUUUAJRRRQAUUUUAFFFFAC0UUUAFFFFABRRRSAKKKKBhRRRTAKSiigQUUUUAFJRRQAUUUUCCiiigD//2Q==",
+      "url": "#3",
+      "subtitle": [
+        "Our team advises clients on all aspects of labour & employment law. We consider ourselves partners collaborating with human resources departments and in-house counsels to assist  in their day-to-day labour and employment issues. Our team advises on:"
+      ],
+      "text": [
+        "Structuring and drafting various consultancy, contractor, labour and employment related agreements.",
+        "Sensitising employees on company policies during induction working with human resource team of clients.",
+        "Advice on employee termination and retention issues.",
+        "Drafting and review of various internal workplace policies and procedures.",
+        "Guiding clients on best practices in Establishments and Factories.",
+        "Conducting trainings and seminars on employment law related topics like PoSH, anti-bribery etc. ",
+        "Assist and guide in all kinds of internal employee related investigations. ",
+        "Draft and review employee related communications, service regulations and handbooks",
+        "Employment law audits on existing documents signed by clients with third parties who are its services providers."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "E-COMMERCE",
       "img": "/images/practice-areas/ecommerce.jpg",
       "imageBlurUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCAGaAtkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCSiiipGFFFFAwooooAWiiigAooooAKWkpaACiiigAooooAWiiigAooooAKKKKACiiigAooooAKKKKACiiigApKKKACiikoAKKKKAEooooASiikoEFJS0lACUlLSUAFJS0lACUlLSUAJSUtJQAlJS0lACU006mmgQlIaWkNACUlLSGgBppDSmkNAhDSGlNJQAlJS0lAgooopgFLSUtAC0tJS0DFpaSloGLS0lLQAtLSUtAC0tJS0ALRRRQMWlpKKAFpaSloAKKKKAFooooAKKKKACiiigC1RRRSGFFFFABRRRQAUtJRQAtFFFABRRRQAtFJS0AFFFFABS0lFAC0UUUAFFFFABRRRQAUUUUAFFFFABRRSUAFFFFABSUUUAFFFJQAUUUlAgpKWkoAKSlpKAEpKWkoAKSikoAKSlpKAEpKWkoASkpabQAlIaWkNAhKQ0tIaAEptOpppgIaQ0ppDSEIaaacaaaAEooooEFFJRTAWlpKWgBaWkpaBi0tJS0DFpaSloAWlpKWgBaWkpaAClpKWgYtFFFAC0UUUALRRRQAUtJS0AFFFFABRRRQBZooopDClpKKAFopKKAFooooAKWkooAWikpaACiiigBaKSigBaKKKACiiigBaKSigBaKSigBaKSigBaSiigAooooAKKSigAooooASiiigApKKKBBSUUUAJSUtJQAUlFFACUlLSUAJSUtJQAlJS0lACUlLSUAJSGlpDQISkNFIaAEpDS0hpgIaQ0GkNIQhpDSmmmgApKKKYgooooAWikpaAHUtNFKKBjqWm06gYtLSUtAC0tJRQA6ikpaAFpaSloGFLSUtAC0UlLQAUtJS0AFFFFABS0lFAC0UlFAFqikopDFopKKAFopKWgAooooAWikooAWikpaAClpKKAFopKKAFooooAKWkooAWikooAWikooAWikooAWikooAWkoooAKKKSgAooooAKSiigQUlFFABSUUUAFJRSUAFJS0lACUUUlABSUUlABSUUlABSUUlABTTS0lAhKQ0tJTASmmlNIaAENIaU000gENJSmm0CCiikpgLRSUUALRSUtACinCmilFADqWm06gYtLSUtAC0tJS0ALS0lFAC0tJS0DFooooAWiiigBaKSloAKWkooAWiiigAooooAs0UlFIYtFJRQAtFJRQAtFFFABS0lFAC0UlFAC0UUUALRSUUALRSUtABS0lFAC0UlFAC0UlFAC0UlFAC0UlFABRRRQAUUUlAC0lFFABSUUUCCkoooAKSiigApKKSgApKWkoAKSikoAKSikoAKSikoAKQ0UlABSUUlMBKSlpDQIQ000ppDSAQ0hoNIaAENJQaSmIKKSimAUUUUDFopKKBDqUU2lFIB4paaKWgY6lpKUUALS0lLQAtLSUUAOopKWgYtLSUUALS0lFAC0UUUALRSUUALRRRQAUUUUAWKKKKQwooooAWikooAWikooAWikpaAFopKKAFopKWgApaSigBaKSigBaKSloAKKKKAFopKKAFopKKAFpKKKACiikoAWikooAKKKSgBaSikoELSUUUAFJRSUAFFFJQAUlFFACUUUlABSUUlABSUUlMApKKSgApKKQ0AJSGlppoEBpppTTTSADTTSmmmgQlJRRVAFFFFAwooooAKKKKAClFJRQA8U4UwGnCkA6lFNFKKAHUtNpaAHUtNpaAHUUlLQMWlptLQAtLSUUALRSUtAC0UlFAC0UlLQAUUUUAWKKSikMWikooAWikooAWlpKKAFopKKAFopKKAHUUlFAC0UlFAC0UlLQAtFJRQAtFJRQAtFJRQAtFJRQAtFJRQAtFJRQAUUlFAC0lFFAgopKKACikooAKKSigApKKKACkopKACkpaSgApKKSmAUlFJQAUlFJQAU00tIaAEpDQaQ0CENNNKaaaQCGkNBNJTAKKKKYBRRRQAUUUUAFFFFABRRRQACnA02lBoAeKUU0GlFAD6WmiloAdS02loAWlpKKQx1FJS0ALRSUtAC0UlFAC0tJRQAtFJRQAtFJRQBYopKKQxaKSigBaKSigB1FJRQAtFJRQAtFJRQA6ikooAWikooAWlptLQAtFJRQAtFJRQAtFJRQAtFJRQAtFJRQAtFJRQAtJRRQAUUlFAgoopKAFpKKSgBaSikoAWkopKACikopgFJRSUAFJRSUAFJRSUAFJRSUAFIaDSGgBDSGg0hNIQhppNKTTCaaAKKKKYBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFACg04GmUoNAEgpaYDThQA6lptLQMdRSUtAC0tNpaQC0tJRQAtLSUUALRSUUALS0lFAC0UlFAE9FJRSGLRSUUALRSUUAOopKKAFopKKAFopKKAHUUlFAC0UlFADqKSigBaKSigBaKSigBaKSigBaKSigBaKSigBaKSigBaKSkoELRSUUALSUUlMBaSikoAWkopKAFpKKSgAoopKACkopKACiikoAKSikoAKbS02gANIaDTSaAAmmk0pNMJoACaSiimIKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigBQacDTKUGgCQGlpgNOBoGOpabmloAWlptLQA6ikooAdRSUUALS02loAWikooAWikopAT0UlFIYtFJRQAtFJRQAtLTaKAHUUlFAC0UlFADqKbS0ALRSUUALS02igB1FJRQAtFJRQAtFJRQAtFJRQAtFJRTAWikooELSUlFAC0UlFAC0lFJQAtJRSUALSUUlAC0lFJQAtJRSUAFJRSUALSUUlABSUU2gApDQaQmgAJppNBNNJoACabQaKYgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAUGnA0ylBoGPzS5pgNOBoAdmlpuaWgB1FNpaAHUU2loAWlptFADqKSigBaKSigCbNLmm0VIx2aM02igB2aM02loAXNFJRQAtLTaM0AOopM0ZoAWikzRTAdRTaWgBaKSigBaKSigB1FNooAdRSUUALRSUUALRSUUALRSUlAhaKSigBaKSkoAWikooAWkopKAFpKKSgBaSikoAKKSigApKKSgApKKTNABSGjNITQAE00mgmmk0ABNNJoJooAKKKKYgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKADNOBptFAx4NLmmZpc0APzS5pmaXNADqWm5ozQA6ikzRmgB1FNzRmgB1FNzS5oAmzRmm5pc1Ixc0ZpKKAFzRmkozQA7NGabmjNMB1FNzS5oAWjNJmigB2aM02loAXNGaSigB2aKbmjNADqKTNGaAFopM0UALRSUUALRSUUALRSUUALRSUUCFopKKAFpKKSgBaKSigAopKKAFpKSigAopKKACkopKAFpKSigAzSZozTSaAFJppNBNNJoACaaTRRTAKKKKBBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUALmlzTaKBj80uaZmjNAD80ZpuaXNADs0ZpuaM0AOzRmm5ozQBPmjNNzRmpKHZozSZozQAuaXNNzRmmA7NGabmjNADqM0maM0CHZozTc0ZoAdmjNJRQA7NGabmjNADqKTNGaAFopM0UAOozTaKAHZopKM0ALmikooAWikooAWikooELSUlFAC0UlFAC0lJRQAtFJSUALRSUlAC0maKTNAC5pM0maM0AGaTNGaaTQApNNJoJppNACk02iimAUUUUCCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKWkooGLRmkooAXNGaSigCfNGabmjNSUOzRmm5ozQA7NGabmlzQA7NGabmjNADs0ZpM0ZpgOzRmm5pc0ALmlzTc0ZoEOzRmm0uaAFpabmigB2aM02loAXNFJRQAtFJmigB1FNooAdRTaKAFopKKAFopKKYhaKSkoAWikooAWkzSUUALmkpKKACjNJSZoAXNJmkzSE0AKTTSaCabQApNJRRQIKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAH5ozSUUjQXNGaSigBc0ZpKKQDs0ZptFAD80ZpuaM0CH5ozTc0ZpgOzS5puaM0AOzRmkzRQA6im0uaBC0ZpKKAHUUlFAC0UlFMBaKSigBaKSigBaKSigBaKSigAopKKAFopKSgQtGaSkoAXNJmikzQAuaTNJmkzQAE0maKSgAooooEFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQA6ikopFi0UlFAC0UlFAC0UlFAC0UUUAFLmkooAXNLmm0UAOpabS0ALS02loAWikopiFpabS0ALRSUUALRSUUALRSUUALRSUUALRSUUAFFJRQAtJRSUALSUUlABmkzRSUwCiikpCCiiigQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAtFJRSGLRSUUDFooooAKKKKACiiigApaSigYtFJS0AFLSUUALS0lFMBaWkooELRSUtABRRRQAtFJRQAtFJRQAtJRRQAUUUUAFJRRTAKSiigApKKSgAoopKBBRRRSEFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAwpaSigBaKKKQwooooAKKWigAoopaACiiloAKKKKYBS0UUAFFFFABRRRQAUUUUAFFFFABSUtFACUUUUwEooooASkpaSgApKWkoEFFFFIQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFGKACijFGKACilxRigBKWjFLikMSilooAKKWigBKWilpAJS0UtMBKKWigAoopaYCUUtFAxKWiigAooooAKKKKBBSUtFACUUtFACUlLRQAlJS0UwEpKWigBtJTqSgBKKKKQgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAXFGKdRSEJRS0UAJRS0UgCilooGJRS0UAFFLRQAlLRS0DEopaKYBRRS0AJRS0UAJS0UUwCiiigAooooAKKKKACiiigBKKWigBKKWkoASilpKAEpKdSUAJSU6kpiGUUpFJQAUUUUgCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAJKKWipEJRS0UAJRS0UgCiiloASilopjCiiloASilooAKKWimAlFLRQMKKKKACilooASilopgJRS0UAJRS0UAJRS0UAJSUtFACUUtJQAUlLRQAlJS0UANopaKBDaaafTTQIbRS0lABRRRQMKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoopaBiUtFFABRRRQBJRS0VBIlLRRQAUUtFACUUtFMAoopaAEpaKKBhRRS0wEopaKACiiigAopaKBiUUtFACUUtFACUUtFMBKKWigBKKWigBKKKKAEopaKAEpKWigBKKWkoEJSU6koAbRS0lADTSU40lAhKSlooASiiigYUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUtFFAwoopaYxKKWigBKKWigCWiilrMgSilooASilopgFFFFABRS0UAFFFFAwopaKYCUtFFABRRRQAUUtFACUUtFAxKWiigApKWigBKKWimAlFLRQAlFFFACUUtFACUUUUAJRS0lAhKKWkoASkpaKAG0lOppoEJSUtFIBKSlpKYBRRRQMKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAClpKWgYUUUtMYUUUUAFFFFAwooooAmoopazMhKKWimMSloooAKKKKACilooAKKKKACiilpjEpaKKACiiigAooooAKKKWgYlFLRQAlFLRQAlFLSUAFFFFMAooooASilpKACkpaKAEooooEJSUtFACUlLSUAJSGnU00CEpKWkpCCkpaSgYlFLSUxhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAtFFFMoWiiigAooooGFFFLTASilooAmooorMyCiiigYUUUUAFLRRQAUUUUAFFFLQAUUUUxhRRRQAUUUtABRRRQAUUUUAFFFFAwooooAKKKKACkpaKAEooopgFFFFACUUUUAFJS0lAgpKWkoASilpKAEpKWkpCEpKU0lAhKKKKAEpKWkoGFFFFMYUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABS0lLQMKWkpaYwooooGFFFLTAKKKKACiiigCaiiiszIKKKKAClpKWgYUUUUAFFFFABS0lLQAUUUUxhRRRQAtFFFABRRRQAUUUUAFFFFAwooooAKKKKACiiigApKWkpgFFFFABSUtJQAUlLSUCCkpaSgApKWkoASkpaSkIQ0lKaSgQlFFFACUUUUDEooopjCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKWkpaYwpaSloGFFFFAwpaSlpgFFFFABRRRQB/9k=",
-      "url": "#2",
-      "subtitle": ["Our team has advised companies like Flipkart and Myntra on various regulations relating to the E-commerce sector. We advice mainly on:"],
+      "url": "#4",
+      "subtitle": [
+        "Our team has in-depth knowledge of the e-commerce ecosystem and experience in managing critical issues having worked for leading e-commerce companies in India. We use our experience and expertise to:"
+      ],
       "text": [
         "Assist in interpretation of applicable laws.",
         "Providing guidance on business strategy based on prevailing regulations.",
@@ -45,59 +89,121 @@
       ]
     },
     {
-      "id": 3,
-      "title": "Commercial Contracts",
+      "id": 5,
+      "title": "COMMERCIAL CONTRACTS",
       "img": "/images/practice-areas/transactions.jpg",
       "imageBlurUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCACiAPMDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCOlpKWkMWlFJSigBwpwpopRQA4U4U0U4UAKKcKaKcKBC0tJS0ALRRRQAtFFFMBaKSloAKKKSgBaKSigBaSiigAooooAKKKKBhS0lFAC0UlFAGdS02lpAOFKKaKcKAHClFNFOFADhThTRThQAopwpBSigQtLSUtAC0UUUwFooooAKKKKACiiigAoopKAFopKKAFopKKAFopKKBi0UlFAC0UlFAGdRSUtIBwpRTRThQA4U4U0U4UAOFOFNFOFACinCminUCFpaSloAWikpaYBRRRQAUUUUAFFFJQAtFJRQAtFJRQAtFJRQAtFJRQMWikooAWikooAzaWkopDHilFNFOFAhwp4pgpwoAeKcKYKcKAHCnU0UopiHUtJRQAtLSUUALRSUUAFFFFAwpKKKACikooAWikooAWikooAWikooAWikooELRSUUAZ1KKbS1JQ4U4U0U4UxDxThTBThQA8U4UwU4UAPFKKaKcKYhaWkooAWlpKKAFopKKBhRRSUAFFFJQAUUUlIBaKSigBaKSimAtFJRQIWikooAWikooAz6WkpakoUU4U0U4UxDxThTBThQA8U4UwU4UxDhThTRSigB1LTaWgBaWkooGLSUUUAFFFJQAUUUlIAoopKACiikoAWikooAWikooELRSUZoAWikooAo0tJS0FCinCm0ooEPFKKaKcKAHCnCmCnCmIeKUU0UooAdS02loAdRSUUDFooooAKKKKQCUUUUAJRRRQAlFFFABSUUUAFFJRQIKKSigBaKSigCrRRRQMWlFJS0AOFKKaKWmA8UopopRQIeKUUwU4UAOpabS0AOpabS0ALRRRQMKKKKQBRRRQAlFLSUAJSUtJQAUlLSUAJRRSUCCiikoAWikooAgooopjClpKWgBaWm0tAhwpabS0AOFOFMpwoAcKWmilFADqWkpaAFpaSigYtFFFIAooooAKSlpKAEpKWigBtJSmkoEJSUtJQAUlFFABRSUUARUUtFMYUUUUCClpKWgBaWm0tADqUU2nCgBRThTRSigBwpaQUtAC0tJS0DFooopALSUtJQAUlLRQAlJS0lAhppKU0hoAQ0lKaSgBKSlpKACiiigCOiiimMKKKKBBS0UUAFLRRQAtKKKKAHClFFFADhSiiigBaWiigYtFFFIBaSiigAooooASkoooENNIaKKAENNoooASiiigAooooA//2Q==",
-      "url": "#3",
-      "subtitle": ["We understand the importance of contracts to protect the rights and obligations of our Clients when they do business with third parties.  Our experienced lawyers provide the right guidance and relevant documents for every business need. We also partner with our Clients to assist in negotiating contracts with third parties to ensure risk coverage. Below are some of the areas we cover through our services which are based on specific customer requirements."],
-      "text": [
-
-        "We guide business with the right document for a particular business transaction.",
-        "In collaboration with the in-house legal teams, we interact with internal stakeholders to understand business and provide standardised contract templates. This is mostly helpful if a Client has many group companies but different templates for similar business.",
-        "We analyse executed contracts to highlight risks and deviation from standard practises.",
-        "We assist in renegotiating terms of existing contracts on behalf of our Clients with third parties in order to protect their interest.  ",
-        "Will provide contract management service for our Clients.",
-        "Having clear SOPs on must have, good to have and no go terms in a contract enables internal business teams to understand the parameters under which its company does business with third parties. This helps in cutting down timelines during contract negotiations.  We help draft such SOPs for our Clients to increase efficiency."
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Regulatory Compliance",
-      "img": "/images/practice-areas/regulatory.jpg",
-      "imageBlurUrl": "data:image/jpeg;base64,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",
-      "url": "#4",
-      "subtitle": ["Compliance with the law of the land is key to a company’s success. There are also various regulations which mandates companies have in place internal mechanisms to sensitise and train its employees on compliance of law. Over time we have seen during a violation, the absence of such mechanisms only aggravates issues for the company. Hence, we help companies to:"],
-      "text": [
-        "Do gap analysis to Identify risks.",
-        "Assist in drafting of standard operating procedures and documentation.",
-        "Assist in the setting up of various committees.",
-        "Adhere to proper procedures during investigations and subsequent consequences which may follow therefrom.  ",
-        "Procure licences. "
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Training",
-      "img": "/images/practice-areas/training.jpg",
-      "imageBlurUrl": "data:image/jpeg;base64,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",
       "url": "#5",
-      "subtitle": ["Our team has the vast experience of having trained and sensitised the entire workforce of multinational organisations on compliance of various regulations and assisted in implementation of global policies at a local level by having a glocal approach. Our training programs are mainly focussed on the following:"],
+      "subtitle": [
+        "We understand the importance of contracts to protect the rights and obligations of our clients while doing business with third parties.  Our experienced lawyers provide the right guidance and relevant documents for every business need. We also partner with our clients to assist in negotiating contracts with third parties to ensure risk coverage. Below are some of the areas we cover through our services which are based on specific customer requirements."
+      ],
       "text": [
-        "Our training programs are designed based on each company’s business in order to connect the audience to the subject matter by giving actual business examples which are relatable and more easier to understand rather than legal jargons which may not appeal to a non-legal audience.",
-        "Proactively collaborating with internal teams (mostly HR) to train new employees on the subject of Antitrust and Ethics and Compliance during their induction.",
-        "Train employees on various subjects of law viz. Antitrust and Ethics and Compliance.",
-        "Use a glocal approach in implementing global policies at a local level through training and sensitisation programs.",
-        "We focus mainly on Antitrust, preparedness for  Dawn Raids, POSH and Ethics and Compliance training."
+        "Draft all kinds of commercial agreements, SOPs, internal policies, guidelines etc.",
+        "We guide business with the right documents for a particular business transaction. ",
+        "Draft standardised contract templates. Our drafts are practical and easy to execute.",
+        "Analyse executed contracts to highlight risks and deviation from standard practises.",
+        "Assist in renegotiating terms of existing contracts on behalf of our clients with third parties in order to protect their interest. ",
+        "Collaborate with in-house counsels to work on contentious clauses and find workable solutions in their interest.  ",
+        "Provide Tender bidding advisory and strategy.",
+        "Provide training on contract drafting and negotiations strategy."
       ]
     },
     {
       "id": 6,
-      "title": "Contracts Management",
+      "title": "COMPANY SECRETARIAL SERVICES",
+      "img": "/images/practice-areas/transactions.jpg",
+      "imageBlurUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCACiAPMDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCOlpKWkMWlFJSigBwpwpopRQA4U4U0U4UAKKcKaKcKBC0tJS0ALRRRQAtFFFMBaKSloAKKKSgBaKSigBaSiigAooooAKKKKBhS0lFAC0UlFAGdS02lpAOFKKaKcKAHClFNFOFADhThTRThQAopwpBSigQtLSUtAC0UUUwFooooAKKKKACiiigAoopKAFopKKAFopKKAFopKKBi0UlFAC0UlFAGdRSUtIBwpRTRThQA4U4U0U4UAOFOFNFOFACinCminUCFpaSloAWikpaYBRRRQAUUUUAFFFJQAtFJRQAtFJRQAtFJRQAtFJRQMWikooAWikooAzaWkopDHilFNFOFAhwp4pgpwoAeKcKYKcKAHCnU0UopiHUtJRQAtLSUUALRSUUAFFFFAwpKKKACikooAWikooAWikooAWikooAWikooELRSUUAZ1KKbS1JQ4U4U0U4UxDxThTBThQA8U4UwU4UAPFKKaKcKYhaWkooAWlpKKAFopKKBhRRSUAFFFJQAUUUlIBaKSigBaKSimAtFJRQIWikooAWikooAz6WkpakoUU4U0U4UxDxThTBThQA8U4UwU4UxDhThTRSigB1LTaWgBaWkooGLSUUUAFFFJQAUUUlIAoopKACiikoAWikooAWikooELRSUZoAWikooAo0tJS0FCinCm0ooEPFKKaKcKAHCnCmCnCmIeKUU0UooAdS02loAdRSUUDFooooAKKKKQCUUUUAJRRRQAlFFFABSUUUAFFJRQIKKSigBaKSigCrRRRQMWlFJS0AOFKKaKWmA8UopopRQIeKUUwU4UAOpabS0AOpabS0ALRRRQMKKKKQBRRRQAlFLSUAJSUtJQAUlLSUAJRRSUCCiikoAWikooAgooopjClpKWgBaWm0tAhwpabS0AOFOFMpwoAcKWmilFADqWkpaAFpaSigYtFFFIAooooAKSlpKAEpKWigBtJSmkoEJSUtJQAUlFFABRSUUARUUtFMYUUUUCClpKWgBaWm0tADqUU2nCgBRThTRSigBwpaQUtAC0tJS0DFooopALSUtJQAUlLRQAlJS0lAhppKU0hoAQ0lKaSgBKSlpKACiiigCOiiimMKKKKBBS0UUAFLRRQAtKKKKAHClFFFADhSiiigBaWiigYtFFFIBaSiigAooooASkoooENNIaKKAENNoooASiiigAooooA//2Q==",
+      "url": "#6",
+      "subtitle3": [
+        {
+          "text": "Corporate Secretarial:",
+          "list": [
+            "All kinds of corporate actions under the Companies Act 2013. ",
+            "Incorporation of private companies including startups, public companies. LLPs, OPCs, Section 8 companies, Wholly Owned Subsidiary of a Foreign Company.",
+            "Conversion into LLPs, private companies, public companies and OPCs",
+            "Conducting of Board & Committee meetings, AGMs, Postal Ballot",
+            "Conduct of Due diligence for companies and Banks",
+            "Issue of securities, conversion, redemption, buy back & all funding related compliances",
+            "Alteration to MOA & AOA, Search Reports and charge management",
+            "Appointment, resignation, removal, fixation of remuneration of directors & auditors",
+            "Corporate Social Responsibility compliances",
+            "Secretarial Audit & Annual certifications",
+            "Preparation and filing of Annual filings-XBRL & non-XBRL"
+          ]
+        },
+        {
+          "text": "Foreign Investment Laws:",
+          "list": [
+            "Foreign Direct & Portfolio Investment into Indian Entities -Compliances",
+            "Overseas Investment by Indian Entities-Compliances",
+            "Disinvestment",
+            "Compounding of offenses under the FEMA laws"
+          ]
+        },
+        {
+          "text": "SEBI Laws:",
+          "list": [
+            "One-time & periodical Listing Compliances",
+            "Audit & certification under LODR"
+          ]
+        },
+        {
+          "text": "Others:",
+          "list": [
+            "Registration - GST, Shops and Establishments, Export-Import license, Udyam (MSME) etc",
+            "Registration of Partnership Firms"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "COMPLIANCE TRAINING",
+      "img": "/images/practice-areas/regulatory.jpg",
+      "imageBlurUrl": "data:image/jpeg;base64,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",
+      "url": "#7",
+      "subtitle": [
+        "Considering the increase of scrutiny and imposition of heavy fines by authorities globally on non- compliance of applicable laws, it has become essential for businesses to have a strong compliance mechanism in place. One such mechanism is to have internal policies on various applicable laws and ensure training of its associates to increase awareness and drive compliance. However, while undertaking such a drive it is pertinent to ensure that such trainings are designed in a manner which drives the spirit of compliance and not bring in a sense of fear which in turn disrupts business. Hence, it is important to connect law to business practice.  Therefore, training programs are mainly designed based on a client’s business in order to connect the audience to the subject matter by giving actual business examples which are relatable and much easier to understand.",
+        "We focus mainly on topics like Antitrust, Dawn Raids, Anti-Bribery, PoSH, Ethics and Compliance. Other topics can also be facilitated based on the specific needs of our clients.",
+        "Our team has the vast experience of having trained and sensitised the entire workforce of various multinational organisations on compliance of various regulations and assisted in implementation of global policies at a local level by having a glocal approach."
+      ],
+      "text": []
+    },
+    {
+      "id": 8,
+      "title": "ALL THINGS STARTUP",
+      "img": "/images/practice-areas/startup.jpg",
+      "imageBlurUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCACiAPMDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC1RRRVEhS0lFAC0UUUgFooooAKKKKBhRRRSAKSiigBKKKSgYUlLSUgEooooASiiimAUUUUAFFFFMQtFFFAgooooAKKKKYDqKSlpDClpKKBC0tJRQAtFJS0DFopKKAFpKKKQBRRSUDCkpaSgApKKKQCUUUUAJRRRTAKKKKACiilpiCiiigQUUUUAFFFFAC0UlFAxaKSloAWikooAdRSUUALRSUtIAooooAKKSigYUUUlIAoopKACiiigYlFFFMQUUUUAFLSUtMQUUUUAFFFFAgooooASikopFC0tJRQAtLTaWgBaKSigB1FJRQAtFJRQAtJRRQAUUUUgCkoooGFFFFACUUUUCCiilpgFFFFABRRRTEFFFFABRRRQA2ikoqShaKKKAFopKKAFpaSimIWikpaAClpKKAFpKKKQBRRRQMKKKKACiiigAooooAKKKKYgooooAKKKKYgooooAKKWigCOiloqShKWiigAooooAWiiigAooooAWiiigQUUUUDCiiigAooooAKKKKACilooASilopiEopaKAEpaKKACkpaKYhKKWigBlFLRUlCUUtFACUtFFABRRRQAUUtFAgooooAKKKWgYlLRRQAUUUUAFFFFABRRRQAUUUUxBRRRQAUUUUAFFFFAgooooASilopFCUUtFACUUUUCCilopgJRS0UAJS0UUAFFFFIAopaKBhRRRQAUUUUAFFFFABSUtFMQlFLSUAFFFFABRRRQAUUUUCCilooGJRS0UAJRS0UAJRS0UAJRS0UAJS0UUAFFFFABRRS0gEpaKKBhRRRQAlFLRTASilpKBBRRRQAlFFFABRRRQIKKKKAHUUUUDCkpaKAEopaSgAooooAKKKKACiiigApaKKACiiikAUUUUDCiiigAooopiCkpaSgAooooASiiigAooooEFFFFADqKKKBhRRRQAUUUUAJRRRQAUUUUAFFFFAC0UUUAFFFFABRRRSAKKKKBhRRRTAKSiigQUUUUAFJRRQAUUUUCCiiigD//2Q==",
+      "url": "#8",
+      "subtitle": [
+        "We provide handholding to start-ups in their early years mostly on:"
+      ],
+      "text": [
+        "Structuring and providing assistance for registration of new companies.",
+        "Drafting various SOPs on compliances.",
+        "Guide on labour and employment related issues.",
+        "Draft, review and negotiate on contracts for the business. We also train business teams to sensitise them on contract terms and help them to act as the first point of contact for negotiations with third parties.",
+        "Assist in implementing tax and insurance SOPs for companies and also assist in filing and litigation as and when required. ",
+        "Guide and assist on brand protection mainly with registering of trademark, designs and patents.",
+        "Assist in company secretarial compliances in order to ensure that the company is in compliance   with existing applicable regulations.",
+        "Standardising internal policies.",
+        "Public relations strategy.",
+        "Assist in hiring the right resource for your specific needs.",
+        "Advising on funding strategies.",
+        "Provide training on various compliance related subjects like PoSH, anti-bribery, ethics and compliance, legal basics etc."
+      ],
+      "subtitle2": "We act as external legal in-house counsels for start-ups and take care of their day-to-day legal needs."
+    },
+
+    {
+      "id": 9,
+      "title": "CONTRACT MANAGEMENT",
       "img": "/images/practice-areas/contracts.jpg",
       "imageBlurUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCACiAPMDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwB9FLSVBYUUUUAFFFFAgooopgFLSUUxC0tJRTELS0lFAhaWkpaYhaKSlpiClpKKAFooooAKKKSgQtJRRQAUUUlAC0lFFABRRRQAyiiisjcKKKKAEopaSgAooopiCiiimIKWkooELS0lFMQ6ikopgOopKKBDqKSimAtFJRQIWikooAWkoooAKKSigBaKSigBaKSigBKKWisTYSkpaKYCUlLSUAFJS0lAgoopKYC0UlFMQ6ikopiHUUlFAh1FJRTAdRSUUALS02igQtFJRQAtFJRQAUUlFAC0U3NGaAHUU3NFAD6KWisjYSkpaKAG0UtJTEJSUtJQAlFFJTEFFJRTAWlptFAh2aWm0tMQuaWm0tADqKbS0ALRSUUwFopKKAFpKSigQtJmikoAXNGaTNJmgB2aKbRQBYpKWisjUSkpaKAG0hp1NNMQlIaU0hoAbRQaSmIKSiigAopKWmIWikooAdS02lpgLRSUUAOopKKAFopKKACikooAKKSigQUUlFAC0UlFAFukpaKgsSkpaSgBKQ0tIaAGmkNONNNADTSGnGm0xCUlLSUAFFFFMQUtJRQAtLSUUwFpaSigBaKSloAKKKSgAooooAKSiigApKKKACiiigC5RRRUFCUUUUANpDTqSgQ00hpTSGmA00lONNNMQlJS0lACUUtFMBKKKWgAooooAWiiigAoopaAEopaSgAooooASilpKBCUUtFACUUtFAFuiiipKCkpaSgBKSlpKAEppp1JTENNJTqSgQ2kp1JTASkpaKBCUUtFMAooooAKWiigYUUUUgCiiigApKWigQlFLRQAlJS0UwEopaKALVFFFQUFJS0lACUlLRTAbSU6koENpKdSUwG0UtJQISilpKYgooooAKKKKACilooAKKKKACiiigAooooASilooASilooASilooAsUUUVJYUlLSUAJRRRQISkpaSmAlJS0lAhKKWkpiEopaSgAooopiCiiigAooooAKWiigAooopAFFFFABSUtFACUUtFACUUtFAE9FFFSaBSUUUAJRRRQISkoopgJSUUUCCkoopiCkoooAKKKKYgooooAKWiigAooooAKKKKACiiikAUUUUAFFFFABRRRQB//2Q==",
-      "url": "#6",
-      "subtitle": ["A common challenge faced by companies across verticals is having an insight to their contractual commitments. The sheer volume of data accumulated over a period of time makes it extremely overwhelming for individuals and teams to easily track and understand this information. To find a customer contract and look for relevant information would mean many man hours scanning through folders and unorganised contracts, leading to delays in decision making and perhaps having a critical impact on business. Our services will help: "],
+      "url": "#9",
+      "subtitle": [
+        "A common challenge faced by companies across verticals is having an insight to their contractual commitments. The sheer volume of data accumulated over a period of time makes it extremely overwhelming for individuals and teams to easily track and understand this information. To find a customer contract and look for relevant information would mean many man hours scanning through folders and unorganised contracts, leading to delays in decision making and perhaps having a critical impact on business. Our services will help:"
+      ],
       "text": [
         "Have access to organised contractual data in a format suitable to your needs. For inhouse legal teams it saves time by giving easy access to information required and free up time to spend on other critical work. Legal can use this information to empower other teams to make timely decisions by providing quick access to contract data requested.",
         "Understand areas where there are deviations from regular standards and considerations made which are unfavourable for the company. Enforce company standards and renegotiate restrictive clauses wherever possible.",
@@ -106,23 +212,23 @@
     },
     {
       "id": 7,
-      "title": "Dispute Resolution",
+      "title": "DISPUTE RESOLUTION",
       "img": "/images/practice-areas/dispute.jpg",
       "imageBlurUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCACiAPMDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCxRRRXmnQFFFFABRRRQAUtFFMAooooAKKKKACloopAFFFFIAooooAKKKKYCUUUUAFJS0lABSUtJTAKSlpKACiiimAUUUUwHUUUVABRRRQAUtFFMAooopgFFFLQAUUUUAFFFFKwBRRRSAKKKKQBRRRQAUlLSUwCkpaSgApKWkpgFJS0UAJRRRTAKKKKYD6KKKgAooooAKKKKoAopaKYBRRRQIKKKKACilooAKKKKkYlFLRUgJRRRQAUUUUAJRRRTASiiigBKKKKYBRRRVAFFFFADqKKWoASilopgFFFFUAUUUUxBRRRQAUtFFABRRRQAUUUVIBRRRSYwoooqQEopaSgApKWkpgFJS0lABSUtFUgEooopgFFFFAD6KKKkAooopgFFFFMQUUUVQBS0lLQAUUUUAFFFFIBaKKKQBRRRSYxKKWkqGAUUUUAJRRRQAlFFFMBKKWkqkAUUUUwEopaKYDqKKKgAoopaYCUUUtUISiiimAtFFFABRRRQAUtJS0AFFFFIAoooqQCkpaKljEooopAJRRRQAlFLSVSAKSlpKoAooopiCiiigB1FLSVIxaKKKYgoopKYC0UUUwCiiigAooooAKWkpaACiiikAUUUVIBRRRSGJRRRSAKSlpKACkpaSmAUUUVQhKKKKYBRRRQA+kpaSpAWikopgFFFFMAooopgLRRRQIKKKKAClpKKAFooopDCiiipAKKKKQCUUUUgCkpaSmAUlLSUwCiiimAlFFFMAooooAdRRRSAKKKKACiiimAUUUUxBS0lLQAUUUUAFFFFIBaKSlpDCiiikAUUUUgEooooAKSlpKYBSUtJTAKKKKYCUUUUwCiiigB1FFFSAUUUUAFFFFMAooopiCiiigBaKKKACiiikAUtJRSAWiiikMKSlpKACiiikAUlFFMApKWkpgFFFFMBKKKKYBRRRQA6iiipAKKKKACiiimAUUUUCCiiimAtFFFABRRRSAKKKKQC0UUUhhSUUUAFFFFIBKKKKYBSUUUwCiiimAlFFFMAooooA//2Q==",
       "url": "#7",
       "subtitle": [
         "In our roles as in-house counsel in the past, we understand that litigation affects the bottom line of a company and the best way to resolve disputes of any kind is by way of mediation and negotiation as a first step. Our first approach during a possible litigious situation is always to facilitate mediation and guide both parties by becoming the mediator to help reach an amicable settlement.",
-        "Nonetheless, as a precautionary measure, we do collaborate with business though inhouse legal teams during such foreseeable litigation  scenarios to guide and assist the business:"
+        "Nonetheless, as a precautionary measure, we do collaborate with business though inhouse legal teams during such foreseeable litigation scenarios to guide and assist the business:"
       ],
       "text": [
         "The right way to correspond.",
         "Collation of relevant documents.",
         "Work on strategy and preparedness to handle actual litigation in future.",
-        "Finding the right effective resource for matters in courts.",
+        "Finding the right effective resource/counsel for matters in courts.",
         "Strategic advice for ongoing litigations.",
-        "Overall litigation management."
+        "Overall litigation management. This means we take the responsibility of following up with external counsels and provide updates at regular intervals to our clients."
       ],
-      "subtitle2": "Our lawyers have the experience and exposure nationally to  find the right resource at short notice as we understand the importance of time and quick action for favourable results during such situations. "
+      "subtitle2": "Our lawyers have the experience and exposure nationally to  find the right resource at short notice as we understand the importance of time and quick action for favourable results during such situations."
     }
   ]
 }
