@@ -14,7 +14,7 @@ export const metadata = {
 export default function PageLayout({ children }) {
   return (
     <>
-      <HeroPage image="/images/joining-hands.jpg" title="Our Team"/>
+      <HeroPage image="/images/hero/team.jpg" title="Our Team"/>
       <main>{children}</main>
     </>
   );

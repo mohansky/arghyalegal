@@ -16,40 +16,41 @@ export default function Home() {
       <Hero />
       <MyModal />
       <Container className="py-32">
-        <p className="lg:w-5/6 text-justify  leading-relaxed">
-          Λrgħyä Legal is a boutique law firm based in Bangalore offering
-          Corporate Advisory, Contracts & Negotiations, Company Secretarial,
-          Intellectual Property, Due Diligence, Contract Management, Regulatory
-          Compliance, Training and Dispute Resolution services in the
-          E-commerce, Information Technology, Manufacturing and Startup space.
-          <br className="mb-5" />
-          The firm was set up with two main objectives in mind. Firstly, to
-          collaborate with in-house legal teams and work on a combination of
-          work sharing models which enable them to increase their productivity
-          and efficiency by focusing more on critical big ticket items having a
-          huge revenue impact for their company. Secondly, support startup
-          founders and leadership of small enterprises to grow their fast paced
-          business by providing them a support ecosystem which not only takes
-          care of their legal needs but also cater to other requirements such as
-          tax, insurance, compliance, secretarial etc. This will enable them to
-          maintain a lean team to be more cost effective during early stages of
-          their venture.
-          <br className="mb-5" />
-          Our team has more than two decades of rich experience having practised
-          in courts, worked with law firms and managing and leading legal
-          departments of many multinational companies having exposure to both
-          national and international business culture. Having worked in-house,
-          the team not only understands the ecosystem but also has the ability
-          to manage stakeholder expectations proactively.
-          <br className="mb-5" />
-          We understand the criticality of issues and its impact on business, so
-          our goal is to provide practical and legally acceptable solutions for
-          complex issues which suit the needs of our Clients with time being the
-          essence.
-          <br className="mb-5" />
-          Integrity, Trust, Teamwork and Exclusivity are the cornerstones on
-          which our firm stands.
-        </p>
+        <div className="lg:w-5/6 text-justify leading-loose">
+          <p className="mb-5">
+            Λrgħyä in Sanskrit means “sacred offering”. It is our driving force
+            behind everything that we provide as services to our clients.
+          </p>
+          <p className="mb-5">
+            Founded in August, 2023, Λrgħyä Legal is a boutique law firm based
+            in Bangalore, India providing legal services to both domestic and
+            international clients on various subjects across different industry
+            sectors with regard to Indian Law.
+          </p>
+          <p className="mb-5">
+            Λrgħyä Legal was set up keeping in mind the principles of (a)
+            Availability; (b) Affordability; (c) Quality; and (d) Integrity. We
+            strive to maintain the highest standards of quality and professional
+            integrity and pride ourselves on giving attention to each client,
+            taking the time to not only fully understand their business and
+            specific needs but also their entire ecosystem in order to provide
+            curated solutions.
+          </p>
+          <p className="mb-5">
+            Our core team has more than two decades of rich mix of domestic and
+            international experience in litigation, law firms and leading and
+            managing legal departments of multinational companies in diverse
+            industry sectors. With a combination of in-house experience and an
+            entrepreneurial mindset our team has the ability to grasp and
+            understand criticality of issues, its impact on business and provide
+            practical and legally acceptable solutions for complex issues which
+            suit the specific needs of our clients with time being the essence.
+            We collaborate closely with clients to establish enduring,
+            results-driven relationships that enhance productivity, reduce
+            costs, mitigate risks, and provide them with a competitive edge in
+            the market.
+          </p>
+        </div>
       </Container>
       <section className="bg-white">
         <Container className="py-20">
